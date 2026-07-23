@@ -12,10 +12,12 @@ There is time, time for you being better.
     * Module3
     * Module4
     * Module5
+    * Module6
 * **Combined Projects:**
     * Project1
     * Project2
     * Project3
     * Project4
     * Project5
+    * Project6
     
